@@ -1,6 +1,7 @@
 # SystemVerilog Simulation Project
 
-This repository contains SystemVerilog implementations and templates for digital logic components, including basic logic gates, multiplexers, full adder/subtractor, and arithmetic logic units (ALUs).
+This repository contains  assignment number 1 in curse Digital Systems And Comp Structure in the Technion,
+SystemVerilog implementations and templates for digital logic components, including basic logic gates, multiplexers, full adder/subtractor, and arithmetic logic units (ALUs).
 
 ## Project Overview
 
