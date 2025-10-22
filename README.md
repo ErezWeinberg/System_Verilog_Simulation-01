@@ -1,6 +1,6 @@
 # SystemVerilog Simulation Project
 
-This repository contains  assignment number 1 in curse Digital Systems And Comp Structure in the Technion,
+This repository contains  assignment number 1 in curse Digital Systems And Comp Structure at the Technion,
 SystemVerilog implementations and templates for digital logic components, including basic logic gates, multiplexers, full adder/subtractor, and arithmetic logic units (ALUs).
 
 ## Project Overview
